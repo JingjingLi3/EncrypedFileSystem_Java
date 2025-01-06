@@ -1,0 +1,27 @@
+What is your serer port for other peers?
+9092
+Start connect to server and register...
+requestListener
+Generate a new peer--------
+How many files do you want to share?
+1
+What is the name of file0:
+file2
+What is the length of file0: (mb)
+3
+{"status":"success"}
+All file names shared in the system:
+{"fileNames":["file1","file2","file1","file2"]}
+Which file do you want to download?
+file1
+The location information is:
+{"chunkLocation":[{"peerPortList":[9091,9092],"chunkSeqNum":0,"chunkFile":"file1"},{"peerPortList":[9091,9092],"chunkSeqNum":1,"chunkFile":"file1"},{"peerPortList":[9091,9092],"chunkSeqNum":2,"chunkFile":"file1"},{"peerPortList":[9091],"chunkSeqNum":0,"chunkFile":"file1"},{"peerPortList":[9091],"chunkSeqNum":1,"chunkFile":"file1"}]}
+Are you sure to download? (y/n)
+y
+{"status":"chunk register success!"}
+{"status":"chunk register success!"}
+{"status":"chunk register success!"}
+{"status":"chunk register success!"}
+{"status":"chunk register success!"}
+
+Process finished with exit code 130

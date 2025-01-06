@@ -1,0 +1,89 @@
+Waiting for connection request... ...
+accept one, add to requestQueue, client port is: 64946
+generate new request process thread
+Socket[addr=/127.0.0.1,port=64946,localport=8081]
+{"fileNumber":1,"localServerPort":9091,"requestType":0,"files":[{"fileName":"file1","fileLength":3}]}
+accept one, add to requestQueue, client port is: 64946
+generate new request process thread
+Socket[addr=/127.0.0.1,port=64946,localport=8081]
+{"requestType":1}
+accept one, add to requestQueue, client port is: 64967
+generate new request process thread
+Socket[addr=/127.0.0.1,port=64967,localport=8081]
+{"fileNumber":1,"localServerPort":9092,"requestType":0,"files":[{"fileName":"file2","fileLength":4}]}
+accept one, add to requestQueue, client port is: 64967
+generate new request process thread
+Socket[addr=/127.0.0.1,port=64967,localport=8081]
+{"requestType":1}
+accept one, add to requestQueue, client port is: 64967
+generate new request process thread
+Socket[addr=/127.0.0.1,port=64967,localport=8081]
+{"requestFileName":"file1","requestType":2}
+accept one, add to requestQueue, client port is: 64967
+accept one, add to requestQueue, client port is: 64967
+accept one, add to requestQueue, client port is: 64967
+generate new request process thread
+generate new request process thread
+Socket[addr=/127.0.0.1,port=64967,localport=8081]
+Socket[addr=/127.0.0.1,port=64967,localport=8081]
+{"fileName":"file1","requestType":4,"chunkSeqNum":2,"portNumber":9092}
+generate new request process thread
+Socket[addr=/127.0.0.1,port=64967,localport=8081]
+{"fileName":"file1","requestType":4,"chunkSeqNum":0,"portNumber":9092}
+[9091]1111111111111
+[9091, 9092]22222222222222
+{"fileName":"file1","requestType":4,"chunkSeqNum":1,"portNumber":9092}
+[9091]1111111111111
+[9091, 9092]22222222222222
+[9091]1111111111111
+[9091, 9092]22222222222222
+accept one, add to requestQueue, client port is: 65341
+generate new request process thread
+Socket[addr=/127.0.0.1,port=65341,localport=8081]
+{"fileNumber":1,"localServerPort":9091,"requestType":0,"files":[{"fileName":"file1","fileLength":2}]}
+accept one, add to requestQueue, client port is: 65341
+generate new request process thread
+Socket[addr=/127.0.0.1,port=65341,localport=8081]
+{"requestType":1}
+accept one, add to requestQueue, client port is: 65367
+generate new request process thread
+Socket[addr=/127.0.0.1,port=65367,localport=8081]
+{"fileNumber":1,"localServerPort":9092,"requestType":0,"files":[{"fileName":"file2","fileLength":3}]}
+accept one, add to requestQueue, client port is: 65367
+generate new request process thread
+Socket[addr=/127.0.0.1,port=65367,localport=8081]
+{"requestType":1}
+accept one, add to requestQueue, client port is: 65367
+generate new request process thread
+Socket[addr=/127.0.0.1,port=65367,localport=8081]
+{"requestFileName":"file1","requestType":2}
+[9091, 9092]
+[9091, 9092]
+[9091, 9092]
+[9091]
+[9091]
+accept one, add to requestQueue, client port is: 65367
+accept one, add to requestQueue, client port is: 65367
+generate new request process thread
+Socket[addr=/127.0.0.1,port=65367,localport=8081]
+accept one, add to requestQueue, client port is: 65367
+generate new request process thread
+Socket[addr=/127.0.0.1,port=65367,localport=8081]
+{"fileName":"file1","requestType":4,"chunkSeqNum":0,"portNumber":9092}
+accept one, add to requestQueue, client port is: 65367
+[9091, 9092]
+[9091, 9092, 9092]
+{"fileName":"file1","requestType":4,"chunkSeqNum":2,"portNumber":9092}
+[9091, 9092]
+accept one, add to requestQueue, client port is: 65367
+[9091]
+generate new request process thread
+[9091, 9092, 9092]
+generate new request process thread
+Socket[addr=/127.0.0.1,port=65367,localport=8081]
+[9091, 9092]
+Socket[addr=/127.0.0.1,port=65367,localport=8081]
+{"fileName":"file1","requestType":4,"chunkSeqNum":1,"portNumber":9092}
+{"fileName":"file1","requestType":4,"chunkSeqNum":1,"portNumber":9092}
+Socket[addr=/127.0.0.1,port=65367,localport=8081]
+{"fileName":"file1","requestType":4,"chunkSeqNum":0,"portNumber":9092}
